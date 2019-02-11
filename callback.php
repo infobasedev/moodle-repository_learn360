@@ -19,8 +19,10 @@
  *
  * 
  * @package   repository_learn360
- * @Author    Pramod Ubbala (AGS -> Infobase) 
+ * @author    Pramod Ubbala (AGS -> Infobase) 
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @copyright 2019 Infobase
+ * @copyright based on work by Pramod Ubbala
  */
 require_once(dirname(dirname(dirname(__FILE__))).'/config.php');
 require_once($CFG->dirroot . '/repository/lib.php');
